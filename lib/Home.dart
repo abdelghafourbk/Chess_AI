@@ -49,7 +49,13 @@ class _HomePageState extends State<HomePage> {
     [15, 'rook', 'black', 'unselected', ''],
 
     // open spaces => w= blank square, 0 = possible move, color, k = possible kill
-    [16, 'rook', 'black', 'unselected', ''],
+    [16, 'x', 'black', 'unselected', ''],
+    [17, 'x', 'black', 'unselected', ''],
+    [18, 'x', 'black', 'unselected', ''],
+    [19, 'x', 'black', 'unselected', ''],
+    [20, 'x', 'black', 'unselected', ''],
+    [21, 'x', 'black', 'unselected', ''],
+    [22, 'x', 'black', 'unselected', ''],
   ];
 
   @override
